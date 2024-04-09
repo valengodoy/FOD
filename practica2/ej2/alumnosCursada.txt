@@ -1,0 +1,5 @@
+Codigo: 789
+Apellido y nombre:  PedroSanchez
+Cantidad de materias cursadas: 5
+Cantidad de materias con final aprobado: 2
+----------------------------------------------

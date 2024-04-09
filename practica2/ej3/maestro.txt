@@ -1,0 +1,3 @@
+001 200 27 25 caramelo
+002 3000 3 10 gomitas
+003 1560 15 15 chocolate
